@@ -20,18 +20,18 @@
             "F7",
             "B1",
             "B3",
-            "B2",
+            "B2"
         ]
     },
     "split": {
-        "enabled": true,
+        "enabled": true
     },
     "processor": "atmega32u4",
     "url": "",
     "usb": {
         "device_version": "1.0.0",
         "pid": "0x0000",
-        "vid": "0xFEED"
+        "vid": "0xF00D"
     },
     "layouts": {
         "LAYOUT": {
